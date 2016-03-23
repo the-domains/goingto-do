@@ -1,0 +1,28 @@
+name: goingto.do
+favicon: null
+layout_spectrum: 0.881795598892495
+typography_spectrum: 0.9500590600073338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7880342022981495
+  lightness: 0.3503719007130712
+  saturation: 0.15452475333586335
+  rhythmicContrast: 0.9206736516207457
+purpose: []
